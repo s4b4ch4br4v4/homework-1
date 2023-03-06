@@ -1,0 +1,14 @@
+<DOCTYPE! html>
+  <html>
+    <head>
+      <title>Information about the world</title>
+    </head>
+    <body>
+      <h3>ქვეყნები აფრიკისა და მათი დედაქალაქები:</h3>
+      <ul>
+        <li><b>კონგო - <a href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%98%E1%83%9C%E1%83%A8%E1%83%90%E1%83%A1%E1%83%90" target="_blank">კინშასა</a></b></li>
+        <li><em>ნიგერია - <a href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%91%E1%83%A3%E1%83%AF%E1%83%90" target="_blank">აბუჯა</a></em></li>
+        <li><big>ეგვიპტე - <a href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%90%E1%83%98%E1%83%A0%E1%83%9D" target="_blank">კაირო</a></big></li>
+      </ul>
+    </body>
+  </html>
